@@ -68,7 +68,6 @@ class RecordingViewController: UIViewController {
         )
         
         setupAudioSettings()
-        
         recordButton.applyDesign()
         playButton.applyDesign()
         analyzeRecordingButton.applyDesign()

@@ -16,8 +16,7 @@ This project uses [Carthage](https://github.com/Carthage/Carthage) to manage dep
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/watson-developer-cloud/speech-to-text-swift.git`
-2. Build the dependencies: `carthage update --platform iOS`. 
-3. Add IBM Watson Speech API Key to `Credentials.swift`
-4. Open `clear_speak.xcodeproj` in Xcode
-5. Build and run the app!
+1. Build the dependencies: `carthage update --platform iOS`. 
+2. Add IBM Watson Speech API Key to `Credentials.swift`
+3. Open `clear_speak.xcodeproj` in Xcode
+4. Build and run the app!
