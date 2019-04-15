@@ -4,6 +4,7 @@
 
 - iOS 8.0+
 - Xcode 9.0+
+  - Ensure that you have the Xcode command line tools installed as well. Follow the instructions [here](https://www.embarcadero.com/starthere/xe5/mobdevsetup/ios/en/installing_the_commandline_tools.html) to ensure that you have them installed.
 - Swift 4.0+
 
 ## Dependency Management
